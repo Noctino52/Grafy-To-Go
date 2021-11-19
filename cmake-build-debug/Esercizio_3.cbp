@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Esercizio_3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Esercizio_3">
+				<Option output="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug/Esercizio_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/."/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/flt"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/int"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/pointer"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/str"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/bst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/mat"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue/vec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack/vec"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Esercizio_3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Esercizio_3/fast">
+				<Option output="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug/Esercizio_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/."/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/flt"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/int"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/pointer"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/adt/str"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/bst/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/bst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/graph/rep/mat"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/itr"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/queue/vec"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack/lst"/>
+					<Add directory="/home/ivan52/Scrivania/Esercizio 3/stack/vec"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Esercizio_3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ivan52/Scrivania/Esercizio 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan52/Scrivania/Esercizio\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/adt.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/adt.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/flt/adtflt.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/flt/adtflt.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/int/adtint.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/int/adtint.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/pointer/adtpointer.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/pointer/adtpointer.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/rec/adtrec.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/rec/adtrec.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/str/adtstr.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/adt/str/adtstr.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bst.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bst.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrbreadth.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrbreadth.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrinord.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrinord.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrpostord.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrpostord.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrpreord.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/bstitrpreord.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/itr/bstitr.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/itr/bstitr.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/rec/bstrec.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/bst/rec/bstrec.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graph.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graph.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrbreadth.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrbreadth.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrpostord.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrpostord.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrpreord.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/graphitrpreord.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/itr/graphitr.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/itr/graphitr.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rec/graphrec.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rec/graphrec.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/bst/graphbst.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/bst/graphbst.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/lst/graphlst.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/lst/graphlst.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/mat/graphmat.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/graph/rep/mat/graphmat.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/itr/itr.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/itr/itr.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/main.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/lst/queuelst.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/lst/queuelst.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/queue.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/queue.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/vec/queuevec.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/queue/vec/queuevec.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/lst/stacklst.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/lst/stacklst.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/stack.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/stack.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/vec/stackvec.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/stack/vec/stackvec.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/utility.c">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/utility.h">
+			<Option target="Esercizio_3"/>
+		</Unit>
+		<Unit filename="/home/ivan52/Scrivania/Esercizio 3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
